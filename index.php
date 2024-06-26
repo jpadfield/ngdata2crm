@@ -161,7 +161,7 @@ echo <<<END
     <tr>
       <td style="font-size:0.75rem;">Source code available on GitHub under the MIT License</td>
       <td></td>
-      <td><a href="https://github.com/E-RIHS/controlled-lists" target="_blank"><img src="./graphics/github-mark.svg" alt="GitHub" class="object-contain object-left" style="height:1.75rem;"></a></td>
+      <td><a href="https://github.com/jpadfield/ngdata2crm" target="_blank"><img src="./graphics/github-mark.svg" alt="GitHub" class="object-contain object-left" style="height:1.75rem;"></a></td>
     </tr>
   </tbody>
 </table>
