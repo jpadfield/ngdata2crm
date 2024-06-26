@@ -1,0 +1,2 @@
+# ngdata2crm
+This is a simple example of pulling data directly from the National Gallery public data endpoint and mapping it to the CIDOC CRM. This work is currently just for experimentation and testing, the mappings are not complete in any way and further work is required before the data could be used for any other applications.
